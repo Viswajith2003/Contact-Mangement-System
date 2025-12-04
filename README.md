@@ -63,7 +63,7 @@ contact-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/contact-management-system.git
+   git clone https://github.com/Viswajith2003/Contact-Mangement-System.git
    cd contact-management-system
    ```
 
